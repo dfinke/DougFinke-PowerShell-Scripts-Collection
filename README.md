@@ -5,9 +5,13 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCP47ZkO5EDkoI2sr-3P4ShQ"></a>
 </p>
 
-# Doug Finke PowerShell Scripts Collection
+# Doug Finke's PowerShell Scripts Collection
 
-Welcome to the Doug Finke PowerShell Scripts Collection! This repository is a curated selection of PowerShell scripts that I have developed over time.
+Welcome to  Doug Finke's PowerShell Scripts Collection! This repository is a curated selection of PowerShell scripts that I have developed over time.
+
+Please ⭐ the repo and share it with others if you find it useful.
+Click the 👁️ watch to get updates when new scripts are added.
+Both are in the upper right.
 
 The scripts are designed for various purposes, including automation, data processing, and fun coding projects. Whether you're looking for practical solutions to common tasks or just want to explore different scripting techniques, you'll find a diverse range of examples here.
 
